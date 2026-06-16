@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to coPassionate about Machine Learning and Data Science, exploring AI-driven solutions, uncovering insights from data, and continuously learning to build intelligent and impactful applications.llaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
+Passionate about Machine Learning and Data Science, exploring AI-driven solutions, uncovering insights from data, and continuously learning to build intelligent and impactful applications.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ajaydandinaarunkumar/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ajay-dandina-arunkumar-b85738303/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/ajay_dandina) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajayarun7899@gmail.com) 
